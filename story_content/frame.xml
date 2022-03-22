@@ -524,7 +524,7 @@
             <fill type="linear" rotation="90">
               <colors>
                 <color rgb="0x404040" alpha="0" stop="0" />
-                <color rgb="0x404040" alpha="0" stop="255" />
+                <color rgb="0x000000" alpha="0" stop="255" />
               </colors>
             </fill>
           </color>
